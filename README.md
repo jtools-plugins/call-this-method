@@ -19,4 +19,4 @@ ctx.error 后置脚本可获取,如执行出现异常,此参数可以获得异�
 ctx.result 后置脚本可获取,此参数为方法执行结果,修改后会影响返回结果,如解密场景,可在后置脚本对结果解密,返回正确内容
 ```
 # 使用方式参考
-[博客](https://blog.csdn.net/qq_42413011/article/details/142438452)
+[推荐一款JTools的call-this-method插件](https://blog.csdn.net/qq_42413011/article/details/144071858)
